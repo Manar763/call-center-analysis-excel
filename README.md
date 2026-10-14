@@ -122,8 +122,8 @@ call-center-analysis-excel/
 ├── data/
 │   └── 01-Call-Center-Dataset.xlsx  # raw dataset
 └── images/
-    ├── 01-dashboard.png
-    └── 02-pivot-tables.png
+    ├── Dashboard.png
+    └── Pivote_tables.png
 ```
 
 ---
